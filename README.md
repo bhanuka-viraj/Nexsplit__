@@ -183,7 +183,7 @@ Once started, you can access:
 | ------------------------- | ------------------------------------- | --------------------------- |
 | **NexSplit Application**  | http://localhost:3000                 | Main application (Frontend) |
 | **Backend API**           | http://localhost:8080                 | REST API                    |
-| **Swagger Documentation** | http://localhost:8080/swagger-ui.html | API Documentation           |
+| **Swagger Documentation** | [http://95.111.248.142:8080/swagger-ui/index.html](http://95.111.248.142:8080/swagger-ui/index.html) | Live API Documentation     |
 | **Kibana Dashboard**      | http://localhost:5601                 | Monitoring Dashboard        |
 | **Elasticsearch**         | http://localhost:9200                 | Search Engine API           |
 
@@ -308,6 +308,31 @@ The application automatically sends structured logs to Elasticsearch:
 1. Open Kibana at http://localhost:5601
 2. Create index patterns for each log type
 3. Build dashboards for monitoring and analytics
+
+## 📚 API Documentation
+
+### Live Swagger Documentation
+
+Access the complete API documentation with interactive testing:
+
+**[🔗 Live Swagger UI](http://95.111.248.142:8080/swagger-ui/index.html)**
+
+The Swagger documentation provides:
+- **Complete API Reference**: All endpoints with request/response schemas
+- **Interactive Testing**: Test API endpoints directly from the browser
+- **Authentication**: JWT token integration for protected endpoints
+- **Request Examples**: Sample requests and responses
+- **Error Codes**: Comprehensive error handling documentation
+
+### API Endpoints Overview
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/api/auth/**` | POST | Authentication endpoints |
+| `/api/users/**` | GET/PUT | User management |
+| `/api/nex/**` | CRUD | Group (Nex) management |
+| `/api/expenses/**` | CRUD | Expense management |
+| `/api/settlements/**` | POST/GET | Settlement operations |
 
 ## 🚀 Deployment
 
