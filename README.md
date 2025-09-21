@@ -50,6 +50,13 @@ Watch the complete application walkthrough:
   <img src="frontend/public/screenshots/Screenshot 2025-09-21 231904.png" alt="Account Management" width="300"/>
 </div>
 
+### Settlement Management & Debt Tracking
+
+<div align="center">
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 234456.png" alt="Settlement Overview" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 234645.png" alt="Execute Settlements" width="300"/>
+</div>
+
 ## 🚀 Features
 
 ### Core Functionality
