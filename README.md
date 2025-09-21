@@ -25,29 +25,29 @@ Watch the complete application walkthrough:
 ### Authentication & Onboarding
 
 <div align="center">
-  <img src="screenshots/Screenshot 2025-09-21 231545.png" alt="Sign In Page" width="300"/>
-  <img src="screenshots/Screenshot 2025-09-21 231609.png" alt="Create Account Page" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231545.png" alt="Sign In Page" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231609.png" alt="Create Account Page" width="300"/>
 </div>
 
 ### Dashboard & Main Interface
 
 <div align="center">
-  <img src="screenshots/Screenshot 2025-09-21 231651.png" alt="Dashboard" width="300"/>
-  <img src="screenshots/Screenshot 2025-09-21 231743.png" alt="Expenses Overview" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231651.png" alt="Dashboard" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231743.png" alt="Expenses Overview" width="300"/>
 </div>
 
 ### Expense Management & Group Management
 
 <div align="center">
-  <img src="screenshots/Screenshot 2025-09-21 231826.png" alt="Expense Details" width="300"/>
-  <img src="screenshots/Screenshot 2025-09-21 231838.png" alt="Member Invitation" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231826.png" alt="Expense Details" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231838.png" alt="Member Invitation" width="300"/>
 </div>
 
 ### Settings & Profile Management
 
 <div align="center">
-  <img src="screenshots/Screenshot 2025-09-21 231853.png" alt="Profile Settings" width="300"/>
-  <img src="screenshots/Screenshot 2025-09-21 231904.png" alt="Account Management" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231853.png" alt="Profile Settings" width="300"/>
+  <img src="frontend/public/screenshots/Screenshot 2025-09-21 231904.png" alt="Account Management" width="300"/>
 </div>
 
 ## 🚀 Features
