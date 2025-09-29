@@ -18,7 +18,7 @@
 
 Watch the complete application walkthrough:
 
-[![NexSplit Demo](https://img.shields.io/badge/📺%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4e2B8V4Jd7k)
+[![NexSplit Demo](https://img.shields.io/badge/📺%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/7elfMUwHijA)
 
 ## 📱 Application Screenshots
 
@@ -179,13 +179,13 @@ npm run dev
 
 Once started, you can access:
 
-| Service                   | URL                                   | Description                 |
-| ------------------------- | ------------------------------------- | --------------------------- |
-| **NexSplit Application**  | http://localhost:3000                 | Main application (Frontend) |
-| **Backend API**           | http://localhost:8080                 | REST API                    |
-| **Swagger Documentation** | [http://95.111.248.142:8080/swagger-ui/index.html](http://95.111.248.142:8080/swagger-ui/index.html) | Live API Documentation     |
-| **Kibana Dashboard**      | http://localhost:5601                 | Monitoring Dashboard        |
-| **Elasticsearch**         | http://localhost:9200                 | Search Engine API           |
+| Service                   | URL                                                                                                  | Description                 |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------- |
+| **NexSplit Application**  | http://localhost:3000                                                                                | Main application (Frontend) |
+| **Backend API**           | http://localhost:8080                                                                                | REST API                    |
+| **Swagger Documentation** | [http://95.111.248.142:8080/swagger-ui/index.html](http://95.111.248.142:8080/swagger-ui/index.html) | Live API Documentation      |
+| **Kibana Dashboard**      | http://localhost:5601                                                                                | Monitoring Dashboard        |
+| **Elasticsearch**         | http://localhost:9200                                                                                | Search Engine API           |
 
 ## 📋 Setup Guide
 
@@ -318,6 +318,7 @@ Access the complete API documentation with interactive testing:
 **[🔗 Live Swagger UI](http://95.111.248.142:8080/swagger-ui/index.html)**
 
 The Swagger documentation provides:
+
 - **Complete API Reference**: All endpoints with request/response schemas
 - **Interactive Testing**: Test API endpoints directly from the browser
 - **Authentication**: JWT token integration for protected endpoints
@@ -326,13 +327,13 @@ The Swagger documentation provides:
 
 ### API Endpoints Overview
 
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/auth/**` | POST | Authentication endpoints |
-| `/api/users/**` | GET/PUT | User management |
-| `/api/nex/**` | CRUD | Group (Nex) management |
-| `/api/expenses/**` | CRUD | Expense management |
-| `/api/settlements/**` | POST/GET | Settlement operations |
+| Endpoint              | Method   | Description              |
+| --------------------- | -------- | ------------------------ |
+| `/api/auth/**`        | POST     | Authentication endpoints |
+| `/api/users/**`       | GET/PUT  | User management          |
+| `/api/nex/**`         | CRUD     | Group (Nex) management   |
+| `/api/expenses/**`    | CRUD     | Expense management       |
+| `/api/settlements/**` | POST/GET | Settlement operations    |
 
 ## 🚀 Deployment
 
